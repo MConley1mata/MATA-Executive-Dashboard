@@ -1,0 +1,153 @@
+{
+  "lastUpdated": "2026-07-10 20:42 UTC",
+  "totalRidershipYTD": 2939533.0,
+  "otpFixedRoute": 61.2,
+  "otpFixedRouteGoal": 72.0,
+  "otpParatransit": 91.4,
+  "otpParatransitGoal": 95.0,
+  "ridershipByMode": {
+    "months": [
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun"
+    ],
+    "motorbus": [
+      190382.0,
+      193876.0,
+      186673.0,
+      226206.0,
+      197209.0,
+      233430.0,
+      185382.0,
+      205673.0,
+      239780.0,
+      253280.0,
+      233138.0,
+      204231.0
+    ],
+    "trolley": [
+      4909.0,
+      4937.0,
+      4192.0,
+      4450.0,
+      4893.0,
+      3196.0,
+      2202.0,
+      2501.0,
+      4504.0,
+      5352.0,
+      5595.0,
+      5325.0
+    ],
+    "paratransit": [
+      10128.0,
+      10346.0,
+      10672.0,
+      11187.0,
+      9599.0,
+      10591.0,
+      8079.0,
+      8517.0,
+      10947.0,
+      11985.0,
+      11535.0,
+      13080.0
+    ]
+  },
+  "otpTrend": {
+    "months": [
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun"
+    ],
+    "fixedRoute": [
+      59.5,
+      60.9,
+      59.6,
+      60.9,
+      61.5,
+      62.0,
+      59.0,
+      56.0,
+      58.0,
+      60.0,
+      60.0,
+      61.2
+    ],
+    "paratransit": [
+      97.8,
+      95.8,
+      95.3,
+      92.0,
+      92.9,
+      92.6,
+      90.1,
+      91.5,
+      92.8,
+      88.5,
+      88.1,
+      91.4
+    ]
+  },
+  "topRoutes": [
+    {
+      "route": "50 \u2013 Poplar",
+      "riders": 298323
+    },
+    {
+      "route": "36 \u2013 Lamar",
+      "riders": 256367
+    },
+    {
+      "route": "42 \u2013 Crosstown",
+      "riders": 254271
+    },
+    {
+      "route": "8 - Chelsea & Highland",
+      "riders": 181219
+    },
+    {
+      "route": "52 \u2013 Jackson",
+      "riders": 162942
+    },
+    {
+      "route": "11 \u2013 Frayser",
+      "riders": 153557
+    },
+    {
+      "route": "39 - S. Third",
+      "riders": 142435
+    },
+    {
+      "route": "1 - Union",
+      "riders": 133970
+    },
+    {
+      "route": "57 - Park",
+      "riders": 122169
+    },
+    {
+      "route": "32 \u2013 Hollywood & Hawkins Mill",
+      "riders": 121210
+    }
+  ],
+  "otpByRoute": []
+}
