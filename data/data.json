@@ -1,0 +1,274 @@
+{
+  "lastUpdated": "2026-07-10 19:40 UTC",
+  "totalRidershipYTD": 2939533.0,
+  "otpFixedRoute": 61.2,
+  "otpFixedRouteGoal": 72.0,
+  "otpParatransit": 91.4,
+  "otpParatransitGoal": 95.0,
+  "ridershipByMode": {
+    "months": [
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun"
+    ],
+    "motorbus": [
+      190382.0,
+      193876.0,
+      186673.0,
+      226206.0,
+      197209.0,
+      233430.0,
+      185382.0,
+      205673.0,
+      239780.0,
+      253280.0,
+      233138.0,
+      204231.0
+    ],
+    "trolley": [
+      4909.0,
+      4937.0,
+      4192.0,
+      4450.0,
+      4893.0,
+      3196.0,
+      2202.0,
+      2501.0,
+      4504.0,
+      5352.0,
+      5595.0,
+      5325.0
+    ],
+    "paratransit": [
+      10128.0,
+      10346.0,
+      10672.0,
+      11187.0,
+      9599.0,
+      10591.0,
+      8079.0,
+      8517.0,
+      10947.0,
+      11985.0,
+      11535.0,
+      13080.0
+    ]
+  },
+  "otpTrend": {
+    "months": [
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun"
+    ],
+    "fixedRoute": [
+      59.5,
+      60.9,
+      59.6,
+      60.9,
+      61.5,
+      62.0,
+      59.0,
+      56.0,
+      58.0,
+      60.0,
+      60.0,
+      61.2
+    ],
+    "paratransit": [
+      97.8,
+      95.8,
+      95.3,
+      92.0,
+      92.9,
+      92.6,
+      90.1,
+      91.5,
+      92.8,
+      88.5,
+      88.1,
+      91.4
+    ]
+  },
+  "topRoutes": [
+    {
+      "route": "50 \u2013 Poplar",
+      "riders": 298323
+    },
+    {
+      "route": "36 \u2013 Lamar",
+      "riders": 256367
+    },
+    {
+      "route": "42 \u2013 Crosstown",
+      "riders": 254271
+    },
+    {
+      "route": "8 - Chelsea & Highland",
+      "riders": 181219
+    },
+    {
+      "route": "52 \u2013 Jackson",
+      "riders": 162942
+    },
+    {
+      "route": "11 \u2013 Frayser",
+      "riders": 153557
+    },
+    {
+      "route": "39 - S. Third",
+      "riders": 142435
+    },
+    {
+      "route": "1 - Union",
+      "riders": 133970
+    },
+    {
+      "route": "57 - Park",
+      "riders": 122169
+    },
+    {
+      "route": "32 \u2013 Hollywood & Hawkins Mill",
+      "riders": 121210
+    }
+  ],
+  "otpByRoute": [
+    {
+      "route": "2 - Madison",
+      "otp": 45.7,
+      "trend": "\u2193"
+    },
+    {
+      "route": "19 - Vollintine",
+      "otp": 47.2,
+      "trend": "\u2193"
+    },
+    {
+      "route": "36 \u2013 Lamar",
+      "otp": 48.1,
+      "trend": "\u2191"
+    },
+    {
+      "route": "8 - Chelsea & Highland",
+      "otp": 51.2,
+      "trend": "\u2193"
+    },
+    {
+      "route": "13- Lauderdale",
+      "otp": 51.3,
+      "trend": "\u2193"
+    },
+    {
+      "route": "39 - S. Third",
+      "otp": 53.2,
+      "trend": "\u2191"
+    },
+    {
+      "route": "50 \u2013 Poplar",
+      "otp": 57.6,
+      "trend": "\u2191"
+    },
+    {
+      "route": "1 - Union",
+      "otp": 59.5,
+      "trend": "\u2191"
+    },
+    {
+      "route": "30 \u2013 Brooks",
+      "otp": 60.0,
+      "trend": "\u2191"
+    },
+    {
+      "route": "57 - Park",
+      "otp": 61.4,
+      "trend": "\u2193"
+    },
+    {
+      "route": "37  - Perkins",
+      "otp": 61.8,
+      "trend": "\u2191"
+    },
+    {
+      "route": "12 - Mallory",
+      "otp": 62.1,
+      "trend": "\u2191"
+    },
+    {
+      "route": "42 \u2013 Crosstown",
+      "otp": 63.3,
+      "trend": "\u2193"
+    },
+    {
+      "route": "16 - Southeast Circulator",
+      "otp": 63.4,
+      "trend": "\u2191"
+    },
+    {
+      "route": "4 - Walker",
+      "otp": 64.5,
+      "trend": "\u2193"
+    },
+    {
+      "route": "53 - Summer",
+      "otp": 64.7,
+      "trend": "\u2191"
+    },
+    {
+      "route": "69 - Winchester",
+      "otp": 66.9,
+      "trend": "\u2191"
+    },
+    {
+      "route": "52 \u2013 Jackson",
+      "otp": 68.8,
+      "trend": "\u2193"
+    },
+    {
+      "route": "34 - Central & Walnut Grove",
+      "otp": 70.0,
+      "trend": "\u2191"
+    },
+    {
+      "route": "28 \u2013 Airport",
+      "otp": 70.6,
+      "trend": "\u2193"
+    },
+    {
+      "route": "32 \u2013 Hollywood & Hawkins Mill",
+      "otp": 71.0,
+      "trend": "\u2193"
+    },
+    {
+      "route": "7 - Shelby & Holmes",
+      "otp": 71.4,
+      "trend": "\u2193"
+    },
+    {
+      "route": "11 \u2013 Frayser",
+      "otp": 73.4,
+      "trend": "\u2191"
+    },
+    {
+      "route": "40 \u2013 Stage",
+      "otp": 74.4,
+      "trend": "\u2191"
+    }
+  ]
+}
