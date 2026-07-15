@@ -1,1 +1,6 @@
 openpyxl
+Flask
+gunicorn
+pandas
+openpyxl
+plotly
